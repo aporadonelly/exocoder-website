@@ -1,0 +1,146 @@
+{
+  "home.slogan": "Exocoder Inc.",
+  "home.subtitles": "Forging the Future: Crafting Excellence in IT & Software Solutions with Precision and Innovation",
+
+  "nav.about": "Home",
+  "nav.our_commitments": "Our commitments",
+  "nav.how_does_it_work": "Courses",
+  "nav.faq": "About us",
+  "nav.get_in_touch": "Apply now",
+
+  "nav.home": "Home",
+  "nav.courses": "Courses",
+  "nav.about_us": "About Us",
+  "nav.apply_now": "Apply Now",
+
+  "btn.receive_updates": "Apply now",
+
+  "features.career_shifters": "Career Shifters",
+  "features.career_shifters.desc": "Individuals with no IT background wanting to learn how to code to pursue a career in Tech as a Software Engineer.",
+
+  "features.fresh_graduates": "Fresh Graduates",
+  "features.fresh_graduates.desc": "Individuals who are in need of a boost by aiming to polish up their skills before they jump start their career in Tech.",
+
+  "features.it_professional": "IT Professionals",
+  "features.it_professional.desc": "Individuals wanting to go full on and fine-tune their web development skills to stay competitive at what they do.",
+
+  "we_care_about_you_and_your_pet.title": "Innovative",
+
+  "it_solutions.title": "Your Training Path to",
+  "it_solutions_bold.title": "Suit Your Development Needs",
+
+  "it_solutions.desc1": "Embark on a transformative coding journey with our tailored training solutions designed to accommodate a diverse range of learners. Our carefully curated curriculum ensures that each student receives personalized guidance, equipping them with the essential web development skills necessary to thrive in the world of coding.",
+  "it_solutions.desc2": "Whether you're a beginner looking to grasp the fundamentals or an experienced coder seeking advanced expertise. Join us as we empower you to unlock the full potential of your coding aspirations.",
+
+  "our_trainings_options.title": "Our Training Options That Fit Your Coding Needs",
+
+  "services.easy_to_use": "Easy to use",
+  "services.easy_to_use.desc": "Get connected via your smartphone",
+
+  "services.stress_relief": "Stress relief",
+  "services.stress_relief.desc": "No more stress in bringing your pet to your vet",
+
+  "services.time_relief": "Time relief",
+  "services.time_relief.desc": "24/7 available without making an upfront appointment",
+
+  "services.professional": "Professional",
+  "services.professional.desc": "Your trusted veterinarian will help you and your pet", 
+
+  "services.low_cost": "Low-cost",
+  "services.low_cost.desc": "Cheaper than a basic veterinary appointment in the practice",
+
+  "services.continuous_improvement": "Continuous improvement",
+  "services.continuous_improvement.desc": "We listen to your needs at all time",
+
+  "services.programming_essentials.title": "PROGRAMMING ESSENTIALS",
+  "services.programming_essentials.desc": "Master the essentials of programming on Git, GitLab, Bash, and VSCode. From version control to command-line skills, these bite-sized lessons will elevate your coding expertise. Start coding smarter today!",
+
+  "services.frontend_development.title": "FRONT-END DEVELOPMENT",
+  "services.frontend_development.desc": "Learn HTML, CSS, JavaScript, ReactJS, Google Chrome tools, Tailwind CSS, Material-UI, and the art of crafting Wireframes and Mockups. Develop the skills to create stunning and responsive web applications.",
+
+  "services.backend_development.title": "BACK-END DEVELOPMENT",
+  "services.backend_development.desc": "Transform your web development with our PHP Laravel Inertia and Postman services. Harness Inertia.js for streamlined applications and Postman for efficient API development. Enjoy faster cycles, seamless integration, and future-ready solutions.",
+
+  "services.fullstack_development.title": "FULLSTACK DEVELOPMENT",
+  "services.fullstack_development.desc": "Master React/Vue, PHP Laravel Inertia for responsive web apps. Dive into Google Chrome tools, Tailwind CSS, Material-UI, and wireframing. Elevate your skills to design and build dynamic web applications.",
+
+  "how_to_apply.title": "How to apply?",
+  "who_is_it_for.title": "Who is it for?",
+
+  "steps.register": "Learning don't stop!",
+  "steps.register.desc": "Keep calm and click 'Apply Now' button",
+
+  "steps.connect": "Signing up the papers",
+  "steps.connect.desc": "Fill out the form, and select your desired courses",
+
+  "steps.consult": "Confirmation",
+  "steps.consult.desc": "This is it! Check your email for additional information",
+
+  "steps.diagnosis": "Feel motivated",
+  "steps.diagnosis.desc": "We are happy to be part of your programming journey, Let's get inlove in the world of programming",
+
+  "emergency.title": "Exocoder will not provide equipment",
+  "emergency.details": "Students are responsible for ensuring they have the necessary equipment, such as a laptop or desktop, for a smoother learning experience. If you have any questions, click on 'Chat Now,' and we will be happy to assist you.",
+
+  "faq.title": "Frequently Asked Questions",
+
+  "faq.question_01.q": "What is exocoder academy?",
+  "faq.question_01.a": "answer.",
+
+  "faq.question_02.q": "How does the application process work?",
+  "faq.question_02.a": "answer",
+
+  "faq.question_03.q": "Can I apply even without an IT background?",
+  "faq.question_03.a": "answer",
+
+  "faq.question_04.q": "What are the applicant requirements",
+  "faq.question_04.a": "answer",
+
+  "faq.question_05.q": "Do you provide job application assitance to your graduates?",
+  "faq.question_05.a": "answer",
+
+  "faq.question_06.q": "What programming languages will I learn?",
+  "faq.question_06.a": "answer",
+
+  "faq.question_07.q": "What are the class schedules?",
+  "faq.question_07.a": "answer",
+
+  "faq.question_08.q": "What can I learn in 2 to 3 months?",
+  "faq.question_08.a": "answer",
+
+  "faq.question_09.q": "Will I be needing my own laptop or computer to enroll?",
+  "faq.question_09.a": "answer",
+
+  "faq.question_10.q": "Do you have weekend classes?",
+  "faq.question_10.a": "answer",
+
+  "faq.question_11.q": "How much does it cost?",
+  "faq.question_11.a": "answer",
+
+  "directories.get_in_touch": "Get in touch",
+  "terms_and_conditions.title": "Terms & Conditions",
+
+  "language.nl": "Nederlands",
+  "language.en": "English",
+
+  "footer.exocoder": "made by Exocoder Inc. || 2024™",
+
+  "form.apply-online": "Applying form",
+  "form.fname": "First name",
+  "form.lname": "Last name",
+  "form.mobile": "Mobile number",
+  "form.email": "Email address",
+  "form.label-type": "Type",
+  "form.pet-owner": "Pet Owner",
+  "form.vet": "Veterinarian",
+  "form.button.submit": "Submit",
+  "form.frequently-asked-questions": "Frequently Asked Questions",
+  "form.button.close": "Close",
+  "form.see-all-faqs": "See all FAQs",
+  "form.courses-offer": "Courses Offer",
+
+  "form.programming-essentials": "Programming Essentials",
+  "form.front-end-development": "Front-end Development",
+  "form.back-end-development":"Back-end Development",
+  "form.fullstack-development":"Fullstack Development"
+}
